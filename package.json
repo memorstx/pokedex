@@ -1,0 +1,23 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "This project is a new personal version of pokemon characters viewer using pokeAPI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memorstx/pokedex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memorstx/pokedex/issues"
+  },
+  "homepage": "https://github.com/memorstx/pokedex#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
