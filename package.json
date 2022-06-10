@@ -4,7 +4,7 @@
   "description": "This project is a new personal version of pokemon characters viewer using pokeAPI.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
